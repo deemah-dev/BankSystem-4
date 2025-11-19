@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Components/Components.csproj" Id="f02991aa-54ee-4e8e-9825-3823aaf80134" />
+  <Project Path="DataAccess/DataAccess.csproj" Id="29803168-095a-43c5-99e0-773b5a9a6f42" />
+  <Project Path="SystemBusiness/SystemBusiness.csproj" Id="44dd02d7-7a2e-4a8c-8050-138627bf049a" />
+  <Project Path="SystemModules/SystemModules.csproj" Id="842f99d0-c58c-44a5-969f-2fc9954fae8f" />
+  <Project Path="WinForms/WinForms.csproj" Id="3844f4c6-c1c3-4b97-a36b-1a7b03313f54" />
+</Solution>

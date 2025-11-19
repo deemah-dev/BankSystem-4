@@ -1,0 +1,10 @@
+D:\repos\BankSystemADO.Net\SystemModules\bin\Debug\SystemModules.dll
+D:\repos\BankSystemADO.Net\SystemModules\bin\Debug\SystemModules.pdb
+D:\repos\BankSystemADO.Net\SystemModules\obj\Debug\SystemModules.csproj.AssemblyReference.cache
+D:\repos\BankSystemADO.Net\SystemModules\obj\Debug\SystemModules.csproj.CoreCompileInputs.cache
+D:\repos\BankSystemADO.Net\SystemModules\obj\Debug\SystemModules.dll
+D:\repos\BankSystemADO.Net\SystemModules\obj\Debug\SystemModules.pdb
+D:\repos\BankSystemADO.Net\SystemModules\bin\Debug\Guna.UI2.dll
+D:\repos\BankSystemADO.Net\SystemModules\bin\Debug\ReaLTaiizor.dll
+D:\repos\BankSystemADO.Net\SystemModules\bin\Debug\ReaLTaiizor.xml
+D:\repos\BankSystemADO.Net\SystemModules\obj\Debug\SystemMo.21E6E826.Up2Date
