@@ -1,9 +1,0 @@
-D:\repos\BankSystemADO.Net\Components\bin\Debug\Components.dll
-D:\repos\BankSystemADO.Net\Components\bin\Debug\Components.pdb
-D:\repos\BankSystemADO.Net\Components\bin\Debug\SystemModules.dll
-D:\repos\BankSystemADO.Net\Components\bin\Debug\SystemModules.pdb
-D:\repos\BankSystemADO.Net\Components\obj\Debug\Components.csproj.AssemblyReference.cache
-D:\repos\BankSystemADO.Net\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
-D:\repos\BankSystemADO.Net\Components\obj\Debug\Components.csproj.Up2Date
-D:\repos\BankSystemADO.Net\Components\obj\Debug\Components.dll
-D:\repos\BankSystemADO.Net\Components\obj\Debug\Components.pdb
